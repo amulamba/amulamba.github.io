@@ -35,6 +35,8 @@ h2{
 h2.bio{color:rgba(102, 102, 102, 1); font-size: 3em; font-family: 'Abel', sans-serif;}
 p.bio{color: rgba(255, 255, 255, 1); font-size: 1.5em;}
 h3.resume{color: rgba(255, 255, 255, 1); font-weight: bolder;}
+h3.resume a{text-decoration: none; color: rgba(255, 255, 255, 1); font-weight: bolder;}
+h3.resume a:hover{color:rgba(122, 204, 200, 1);}
 p.resume{color: rgba(255, 255, 255, 1);font-size: 1.5em;}
 p.resume a{text-decoration: none; color: rgba(255, 255, 255, 1);}
 p.resume a:hover{color:rgba(122, 204, 200, 1);}
