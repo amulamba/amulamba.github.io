@@ -121,7 +121,7 @@ img.avatar{
 	margin-top: 10%;
 	margin-bottom: 10%;
 	z-index: 1;
-	filter: grayscale(60%);
+	filter: grayscale(70%);
 }
 img:hover{filter: none;}
 
