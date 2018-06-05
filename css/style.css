@@ -25,7 +25,7 @@
 body{
 	
 	font-family: 'Montserrat', sans-serif;
-	font-size: 16px;
+	font-size: 20px;
 	color: rgba(0, 0, 0, 1);
 	background-attachment:fixed;
 }
@@ -35,10 +35,10 @@ h2{
 h2.bio{font-size: 75px; color: #d48a00;}
 p.bio{color: #545149; font-size: 20px;}
 h2.resume{font-size: 48px; color: #d48a00; font-weight: 900;}
-p.resume{color: #ffffff;font-size: 16px;}
+p.resume{color: #ffffff;font-size: 20px;}
 p.resume a{text-decoration: none; color: #efe2ba;}
 p.resume a:hover{color:#f13c20;}
-p.resume_section{background-color:rgba(253, 245, 230, 1); font-size: 16px;}
+p.resume_section{background-color:rgba(253, 245, 230, 1); font-size: 20px;}
 h1{
 	padding: 20% 0 20% 0;
 	font-family: 'Merriweather', serif;
