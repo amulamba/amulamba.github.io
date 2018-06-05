@@ -123,7 +123,7 @@ img.avatar{
 	z-index: 1;
 	filter: grayscale(100%);
 }
-img:hover{opacity:0.8; filter: none;}
+img:hover{filter: none;}
 
 /* Images & Media
 –––––––––––––––––––––––––––––––––––––––––––––– */
