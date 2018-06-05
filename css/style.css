@@ -34,7 +34,7 @@ h2{
 }
 h2.bio{font-size: 75px; color: #d48a00;}
 p.bio{color: #545149; font-size: 16px;}
-h2.resume{font-size: 48px; color: #f13c20;}
+h2.resume{font-size: 48px; color: #d48a00;}
 p.resume, ul.resume{color: #ffffff;font-size: 16px;}
 p.resume a, ul.resume a{text-decoration: none; color: #efe2ba;}
 p.resume a:hover, ul.resume a:hover{color:#f13c20;}
