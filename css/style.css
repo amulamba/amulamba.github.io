@@ -33,7 +33,7 @@ h2{
 	font-family: 'Merriweather', serif;
 	font-size: 32px;
 }
-h1.bio{font-size: 32px; 'Merriweather', serif;}
+h2.bio{font-size: 48px; 'Merriweather', serif;}
 p.bio{color: rgba(255, 255, 255, 1); font-size: 16px;}
 h3.resume{color: rgba(255, 255, 255, 1); font-weight: bolder;}
 h3.resume a{text-decoration: none; color: rgba(255, 255, 255, 1); font-weight: bolder;}
