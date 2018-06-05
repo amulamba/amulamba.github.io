@@ -23,29 +23,30 @@
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––– */
 body{
-	font-family: 'Abel',sans-serif;
-	font-size: 1.5em;
+	
+	font-family: 'Montserrat', sans-serif;
+	font-size: 16px;
 	color: rgba(0, 0, 0, 1);
 	background-attachment:fixed;
 }
 h2{
-	font-family: 'Satisfy', cursive;
-	font-size: 3em;
+	font-family: 'Merriweather', serif;
+	font-size: 32px;
 }
-h2.bio{color:rgba(102, 102, 102, 1); font-size: 3em; font-family: 'Abel', sans-serif;}
-p.bio{color: rgba(255, 255, 255, 1); font-size: 1.5em;}
+h2.bio{color:rgba(102, 102, 102, 1); font-size: 32px; 'Merriweather', serif;}
+p.bio{color: rgba(255, 255, 255, 1); font-size: 16px;}
 h3.resume{color: rgba(255, 255, 255, 1); font-weight: bolder;}
 h3.resume a{text-decoration: none; color: rgba(255, 255, 255, 1); font-weight: bolder;}
 h3.resume a:hover{color:rgba(122, 204, 200, 1);}
-p.resume{color: rgba(255, 255, 255, 1);font-size: 1.5em;}
+p.resume{color: rgba(255, 255, 255, 1);font-size: 16px;}
 p.resume a{text-decoration: none; color: rgba(255, 255, 255, 1);}
 p.resume a:hover{color:rgba(122, 204, 200, 1);}
-p.resume_section{background-color:rgba(253, 245, 230, 1); font-size: 1.5em;}
+p.resume_section{background-color:rgba(253, 245, 230, 1); font-size: 16px;}
 h1{
 	padding: 20% 0 20% 0;
-	font-family: 'Abel', sans-serif;
+	font-family: 'Merriweather', serif;
 	margin: 0.67em;
-	font-size: 4.4em;
+	font-size: 48px;
 	text-transform: uppercase;;
 	font-weight: bold;
 	color: rgba(253, 245, 230, 1);
@@ -68,7 +69,7 @@ header.main_nav{
 	width: 100%;
 }
 .logo a{
-	font-size: 5.5em;
+	font-size: 16px;
 	color: rgba(122, 204, 200, 1);
 	text-decoration: none;
 	border: 3px solid rgba(122, 204, 200, 1);
@@ -94,11 +95,11 @@ ul.nav{
 	display: block;
 	list-style-type: none;
 	text-align: right;
-	font-size: 1.5em;
+	font-size: 16px;
 	text-transform: uppercase;
 }
 ul.nav li{
-	font-size: 1em;
+	font-size: 16px;
 	display: inline;
 	padding: 0 2%;
 }
@@ -155,23 +156,23 @@ ul.social li.email a:hover{color:rgb(255, 255, 255);}
 p.copyright{
 	text-align: center;
 	color: rgba(102, 102, 102, 1);
-	font-size: 1em;
+	font-size: 14px;
 }
 
 /* Media Queries
 –––––––––––––––––––––––––––––––––––––––––––––– */
 /* For devices larger than 400px  */
 @media (max-width: 479px) {
-	.logo a{font-size: 2em;}
+	.logo a{font-size: 16px;}
 	.main{padding-top:15%;}
 	.portfolio img{margin-bottom: 10%;}
 	img.avatar{margin-top: 15%;}
-	h2.bio{font-size: 2.5em;}
-	p.bio{font-size: 1.25em;color: rgba(255, 255, 255, 1);}
-	ul.social li a{font-size: .75em;}
-	header.sub_nav{font-size: .75em;}
+	h2.bio{font-size: 14px;}
+	p.bio{font-size: 14px;color: rgba(255, 255, 255, 1);}
+	ul.social li a{font-size: 14px;}
+	header.sub_nav{font-size: 14pxm;}
 	h1{font-size: 2.805em; text-align:center;}
 }
 /* For devices larger than 550px*/
 @media (max-width: 719px) {
-h1{font-size: 2.805em;text-align: center;}
+h1{font-size: 24px;text-align: center;}
