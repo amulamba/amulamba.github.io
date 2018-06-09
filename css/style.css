@@ -134,11 +134,11 @@ form{
 /* Nav Bar
 ______________________________________________*/
 
-body {
+body.navbar {
     font-size: 28px;
 }
 
-ul {
+ul.navbar {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -149,11 +149,11 @@ ul {
     top: 0;
 }
 
-li {
+li.navbar {
     float: left;
 }
 
-li a {
+li.navbar a {
     display: block;
     color: white;
     text-align: center;
@@ -161,7 +161,7 @@ li a {
     text-decoration: none;
 }
 
-li a:hover {
+li.navbar a:hover {
     background-color: #111;
 }
 
