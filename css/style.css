@@ -121,9 +121,9 @@ img.avatar{
 	margin-top: 10%;
 	margin-bottom: 10%;
 	z-index: 1;
-	filter: grayscale(70%);
+	filter: none;
 }
-img:hover{filter: none;}
+img:hover{filter: grayscale(70%);}
 
 /* Images & Media
 –––––––––––––––––––––––––––––––––––––––––––––– */
